@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name - Bio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header>
+    <h1>Your Name</h1>
+    <nav>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#socials">Socials</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Add your bio content here...</p>
+</section>
+
+<section id="socials">
+    <h2>Social Media</h2>
+    <ul>
+        <li><a href="https://twitter.com/yourusername">Twitter</a></li>
+        <li><a href="https://www.linkedin.com/in/yourusername">LinkedIn</a></li>
+        <!-- Add more social media links as needed -->
+    </ul>
+</section>
+
+<footer>
+    <p>&copy; 2024 Your Name</p>
+</footer>
+
+</body>
+</html>
